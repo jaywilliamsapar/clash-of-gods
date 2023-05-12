@@ -12,4 +12,5 @@
 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ![clashofgods](/https://raw.githubusercontent.com/jaywilliamsapar/clash-of-gods/main/clash2.jpg)
-https://raw.githubusercontent.com/jaywilliamsapar/clash-of-gods/main/clash2.jpg
+
+![Design and Development](https://raw.githubusercontent.com/jaywilliamsapar/clash-of-gods/main/clash2.jpg)
