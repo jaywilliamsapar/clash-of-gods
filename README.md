@@ -14,3 +14,6 @@ Join the channel to see more videos like this. [Bedimcode](https://www.youtube.c
 ![Design and Development](https://raw.githubusercontent.com/jaywilliamsapar/clash-of-gods/main/clash2.jpg)
 
 ![Design and Development](https://raw.githubusercontent.com/jaywilliamsapar/clash-of-gods/main/clash3.jpg)
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3503f3ca-c34c-44c3-afcd-901ed3f74e38/deploy-status)](https://app.netlify.com/sites/clash-of-gods/deploys)
