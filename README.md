@@ -11,4 +11,5 @@
 
 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-![halloween](/preview.png)
+![clashofgods](/https://raw.githubusercontent.com/jaywilliamsapar/clash-of-gods/main/clash2.jpg)
+https://raw.githubusercontent.com/jaywilliamsapar/clash-of-gods/main/clash2.jpg
