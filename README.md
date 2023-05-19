@@ -2,7 +2,7 @@
 
 ### Responsive Clash of Gods Website || View Demo :  https://clash-of-gods.netlify.app/ 🔥
 
-- Responsive Clash of Gods Website 🔥 Using HTML, CSS & JavaScript.
+- Responsive Clash of Gods Website 🔥 Using HTML, TailwindCSS & JavaScript.
 - Contains animations when scrolling.
 - It has three color designs (dark, purple and gold)
 - Smooth scrolling in each section.
