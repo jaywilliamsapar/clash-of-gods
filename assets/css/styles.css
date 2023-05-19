@@ -13,17 +13,17 @@
   --text-color: hsl(var(--hue), 4%, 85%);
   --text-color-light: hsl(var(--hue), 4%, 55%);
 
-  /*Green gradient*/
-  --body-color: linear-gradient(90deg, hsl(47, 52%, 37%) 0%, hsl(309, 52%, 47%) 100%);
-  --container-color: linear-gradient(136deg, hsl(286, 60%, 49%) 0%, hsl(177, 65%, 51%) 100%);
+  /* Green gradient */
+  --body-color: linear-gradient(90deg, hsl(47, 63%, 52%) 0%, hsl(309, 57%, 51%) 100%);
+  --container-color: linear-gradient(136deg, hsl(155, 52%, 37%) 20%, hsl(209, 56%, 37%) 80%);
   
-  /*Red gradient*/
+ /* Red gradient */
   /* --body-color: linear-gradient(90deg, hsl(360, 28%, 40%) 0%, hsl(18, 28%, 40%) 100%);
   --container-color: linear-gradient(136deg, hsl(360, 28%, 35%) 0%, hsl(18, 28%, 35%) 100%); */
 
   /*Black solid*/
-  /* --body-color: hsl(30, 8%, 8%);
-  --container-color: hsl(30, 8%, 10%); */
+   /* --body-color: hsl(30, 8%, 8%);
+  --container-color: hsl(30, 8%, 10%);  */
 
   /*========== Font and typography ==========*/
   --body-font: 'Poppins', sans-serif;
