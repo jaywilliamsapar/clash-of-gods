@@ -1,5 +1,5 @@
 # Responsive Clash of Gods Website 🔥
-## [Watch it on youtube](https://youtu.be/lgo1CEPZoxg)
+
 ### Responsive Clash of Gods Website || View Demo:  https://clash-of-gods.netlify.app/ 🔥
 
 - Responsive Clash of Gods Website 🔥 Using HTML, CSS & JavaScript.
