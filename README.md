@@ -1,9 +1,12 @@
 # Responsive Clash of Gods Website 🔥
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ### Responsive Clash of Gods Website || View Demo :  https://clash-of-gods.netlify.app/ 🔥
 =======
+=======
+>>>>>>> parent of 67f20fd (Update README.md)
 =======
 >>>>>>> parent of 67f20fd (Update README.md)
 ## [Watch it on youtube](https://youtu.be/lgo1CEPZoxg)
